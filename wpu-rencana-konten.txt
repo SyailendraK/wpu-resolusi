@@ -4,6 +4,8 @@ rencana konten saya :
 - framework
 - gaming
 - tutor
-- angular js
+- strukdat
+- laravel
+- python
 - react
 
